@@ -14,7 +14,7 @@ asdgasjdg
 
 # 1874 Baptismal Vows
 
-<img src="img/28 Fundamentals.PNG">
+<img src="28 Fundamentals.PNG">
 
 "Our research indicates that Baptismal Vows were officially introduced to God's Church in 1874. Nevertheless there is evidence from Sister White's writings that vows were in vogue at least in 1872 (see later). We cite those 1874 vows:"
 ...
